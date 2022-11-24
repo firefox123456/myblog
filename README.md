@@ -1,0 +1,2 @@
+# myblog
+hugo build blog
